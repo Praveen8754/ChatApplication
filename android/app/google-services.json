@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "388178032858",
+    "firebase_url": "https://crud-17232-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-17232",
+    "storage_bucket": "crud-17232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388178032858:android:1d377f3f81773638570de3",
+        "android_client_info": {
+          "package_name": "com.example.crudrealtimedbfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF8ay-6rEewMVh1v3wszTDUrzg40RxpyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388178032858:android:30c408f810e93cb0570de3",
+        "android_client_info": {
+          "package_name": "com.example.msgtoothers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF8ay-6rEewMVh1v3wszTDUrzg40RxpyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388178032858:android:24fdc5a0176c2de5570de3",
+        "android_client_info": {
+          "package_name": "com.example.phonepepaymentgateway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF8ay-6rEewMVh1v3wszTDUrzg40RxpyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
